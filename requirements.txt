@@ -1,0 +1,7 @@
+Flask
+request
+jsonify
+pickle
+numpy 
+pandas
+sklearn
